@@ -1,0 +1,24 @@
+{
+  "name": "midnight-tomorrow",
+  "version": "0.0.0",
+  "description": "A small node module that returns a date object of tomorrow at midnight.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmcaodha/midnight-tomorrow.git"
+  },
+  "keywords": [
+    "Time",
+    "Midnight",
+    "Tomorrow"
+  ],
+  "author": "dmcaodha <mckayefc@gmail.com> (http://www.danielmckay.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmcaodha/midnight-tomorrow/issues"
+  },
+  "homepage": "https://github.com/dmcaodha/midnight-tomorrow"
+}
